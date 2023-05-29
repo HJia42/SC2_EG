@@ -1,1 +1,3 @@
-# SC _ Data is rought work, SC_Project is final thing
+Starcraft Data - Rough Work
+
+Starcraft Project - Final Response
